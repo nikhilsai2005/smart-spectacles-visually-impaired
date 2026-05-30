@@ -271,6 +271,7 @@ Press RESET button on ESP32
 ## 🔗 Connect
 
 **Nikhil Sai Boddu**
+email : boddu.nikhilsai@gmail.com
 Methodist College of Engineering and Technology
 Department of ECE, Hyderabad, India
 
